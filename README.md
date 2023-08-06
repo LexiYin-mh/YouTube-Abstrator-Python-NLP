@@ -1,8 +1,8 @@
 # YouTube Abstractor
 
-This **python** tool is trained based on **Google Pegasus**, an NLP with specialty on generating abstract based on the article input. 
+This **Python** tool is trained based on **_Google Pegasus_** using _**Google Cloud**_, an **_NLP_** with specialty on generating abstract based on the article input. 
 
-Counting on `youtubeCaptionFetcher`.py, we can generate the abstract for a video by inputting a video ID. 
+Counting on `youtubeCaptionFetcher.py`, we can generate the abstract for a video by inputting a video ID. 
 
 ## Model based on Google Pegasus
 
@@ -40,5 +40,5 @@ The hacking group known as NC29 is largely believed to operate as part of Russia
 
 ## Acknowledgments
 - Inspiration: Google Pegasus
-- Tools: Tensorflow, Google Cloud
+- Tools: **Tensorflow, Google Cloud**
 - Special thanks to [Lian Duan](https://www.linkedin.com/in/lian-duan-8aa69b239/) for his invaluable contributions and insights.
