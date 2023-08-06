@@ -1,0 +1,6 @@
+# ignore all the .log file
+*.log
+
+model/
+
+note.md
